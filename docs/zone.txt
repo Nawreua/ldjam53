@@ -1,0 +1,5 @@
+Zones : 3 zones de 4 écrans (20 px par écran), donc 80 px par zone, plus 3 / 4 écrans à la fin
+Zone 1 : X254 -> X175, 5 E : 2 feu, 2 montgolfiere, 1 vent
+Zone 2 : X174 -> X95, 7 E : 1 feu + 1 aléa, 1 drone, 1 vent, 1 montgolfiere + 2 aléas
+Zone 3 : X94 -> X15, 6 E : 2 drones aléas, 2 feu aléas, 1 vent, 1 montgolfiere
+Zone final : X14 -> X0
